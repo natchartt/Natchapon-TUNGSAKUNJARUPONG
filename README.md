@@ -1,17 +1,43 @@
 # Natchapon-TUNGSAKUNJARUPONG
-### สวัสดีครับ ผมชื่อ [นายณัชพล ตั้งสกุลจารุพงศ์] 👋
+<div align="center">
+  <!-- แบนเนอร์คลื่นด้านบนพร้อมชื่อ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hello,%20I'm%20Natchapon&fontSize=42&fontColor=00f2fe&animation=fadeIn" width="100%" />
 
-เป็น **[นักศึกษาไอที ม.เกษตรศาสตร์ กำแพงแสน]** 
+  <!-- ตัวหนังสือพิมพ์ขยับได้ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Natchapon+Tungsakunjarupong;ณัชพล+ตั้งสกุลจารุพงศ์;IT+Student+%40+Kasetsart+University+(KPS)+🎓" alt="" />
+  </a>
+</div>
 
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์: **[GitHup Project]**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[Java]**
-- 📫 ช่องทางติดต่อ: **[natchapon.tu@ku.th]**
+# Natchapon Tungsakunjarupong (ณัชพล ตั้งสกุลจารุพงศ์)
+### สวัสดีครับ ผมชื่อ นายณัชพล ตั้งสกุลจารุพงศ์ 👋
 
-### 🛠️ ภาษาและเครื่องมือที่ใช้ (Tech Stack)
+เป็น **นักศึกษาไอที ม.เกษตรศาสตร์ กำแพงแสน** 
 
+- 🔭 ปัจจุบันกำลังทำโปรเจกต์: **GitHub Project**
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **Java**
+- 📫 ช่องทางติดต่อ: **[natchapon.tu@ku.th](mailto:natchapon.tu@ku.th)**
+
+---
+
+### 💻 ภาษาโปรแกรม (Programming Languages)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+  </a>
+</p>
+
+### 🚀 เฟรมเวิร์กและฐานข้อมูล (Frameworks & Databases)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql" />
+  </a>
+</p>
+
+### 🛠️ เครื่องมือและซอฟต์แวร์ (Tools & Platforms)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
